@@ -1,0 +1,16 @@
+.title{
+  margin: 0;
+  color: aqua;
+  font-size: 6em;
+  position: absolute;
+  top: 200px;
+  width: 200px;
+}
+
+.text{
+  font-size: 4em;
+}
+
+.profile{
+  background-position: center;
+}

@@ -1,0 +1,18 @@
+.title {
+  color: aqua;
+  font-size: 6.5em;
+  color: chartreuse;
+}
+
+.profile {
+  background-position: center;
+}
+
+.about-wrap {
+  background: url(./img/Suichuimage.jpg) fixed no-repeat center;
+  background-size: cover;
+}
+
+.img {
+  display: none;
+}
