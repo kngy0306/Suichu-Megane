@@ -76,11 +76,20 @@ body {
   color: white;
 }
 
-.sns p a:hover {
+.sns p .fa-twitter:hover{
   text-decoration: none;
-  color: darkorange;
+  color: #1DA1F2;
 }
-
+.sns p .fa-facebook:hover{
+  text-decoration: none;
+  color: #3C5A99;
+}
+.sns p .fa-instagram:hover{
+  text-decoration: none;
+  background: -webkit-linear-gradient(0deg, #4C64D3, #CF2E92,#F26939,#FFDD83);
+  background-clip: text;
+  border-radius: 5px;
+}
 footer {
   color: white;
   height: 50px;
