@@ -8,3 +8,10 @@ body{
   line-height: 1.1em;
   font-size: 5em;
 }
+
+.profile {
+  /* height: 80vh; */
+  background: url(./img/water-dark.jpg) fixed no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}
