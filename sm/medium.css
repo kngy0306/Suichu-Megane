@@ -6,9 +6,13 @@
   background-position: center;
 }
 
-.about-wrap {
-  background: url(./img/Suichuimage.jpg) fixed no-repeat center;
+.about{
+  background: url(./img/Suichuimage.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+
 }
 
 .img {
