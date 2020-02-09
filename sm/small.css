@@ -1,13 +1,6 @@
-*{
+* {
   font-family: sans-serif;
 }
-
-/* body{
-  position: relative;
-  background-size: auto;
-  background: url(./img/glasses2_small.jpg)fixed no-repeat;
-  background-position: center;
-} */
 
 .title {
   width: 200px;
@@ -17,11 +10,13 @@
   font-size: 5em;
   text-align: left;
 }
-.about-body{
+
+.about-body {
   background: none;
   width: 100%;
 }
-.about{
+
+.about {
   background: url(./img/Suichuimage.jfif);
   background-size: cover;
   background-repeat: no-repeat;
@@ -29,10 +24,10 @@
 }
 
 .profile {
-  background: url(./img/water-small.jpg)no-repeat;
+  background: url(./img/water-small.jpg) no-repeat;
   background-attachment: scroll;
-} 
+}
 
-.member{
+.member {
   margin-bottom: 0;
 }

@@ -1,11 +1,10 @@
-
 .title {
   font-size: 6.5em;
 }
 
-.about-body{
+.about-body {
   width: 70%;
-  background: url(./img/Suichuimage.jfif)no-repeat;
+  background: url(./img/Suichuimage.jfif) no-repeat;
   background-size: cover;
   border-radius: 20px;
 }
@@ -14,6 +13,6 @@
   display: none;
 }
 
-.member{
+.member {
   margin-bottom: 200px;
 }
