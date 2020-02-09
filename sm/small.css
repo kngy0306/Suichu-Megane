@@ -22,7 +22,8 @@
   width: 100%;
 }
 .about{
-  background: url(./img/Suichuimage_medium.jpg);
+  background: url(./img/Suichuimage.jfif);
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
 }
