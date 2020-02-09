@@ -20,13 +20,8 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-<<<<<<< HEAD
-  background:url(./img/glasses2.jpg) center/cover no-repeat;
-  }
-=======
   background:url(./img/glasses2.jpg) center/cover no-repeat; /*fixedをトル！*/
   }
-
 
 /* body {
   background: url(./img/glasses2.jpg) no-repeat;
@@ -35,7 +30,6 @@ body::before {
   backdrop-filter: brightness(0.4);
   background-attachment: fixed;
 } */
->>>>>>> edf467b0f9454ab9fd79c16c62868aaea89c07c9
 
 .title {
   height: 230px;

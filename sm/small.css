@@ -2,12 +2,12 @@
   font-family: sans-serif;
 }
 
-body{
+/* body{
   position: relative;
   background-size: auto;
   background: url(./img/glasses2_small.jpg)fixed no-repeat;
   background-position: center;
-}
+} */
 
 .title {
   width: 200px;
