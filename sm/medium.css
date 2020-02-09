@@ -1,20 +1,25 @@
+body{
+  position: relative;
+  background-size: auto;
+  background: url(./img/glasses2_medium.jpg)fixed no-repeat;
+  background-position: center;
+}
+
 .title {
   font-size: 6.5em;
 }
 
-.profile {
-  background-position: center;
-}
-
-.about{
-  background: url(./img/Suichuimage.jpg);
+.about-body{
+  width: 70%;
+  background: url(./img/Suichuimage.jfif)no-repeat;
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-
+  border-radius: 20px;
 }
 
 .img {
   display: none;
+}
+
+.member{
+  margin-bottom: 200px;
 }

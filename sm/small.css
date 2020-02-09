@@ -17,5 +17,21 @@ body{
   font-size: 5em;
   text-align: left;
 }
+.about-body{
+  background: none;
+  width: 100%;
+}
+.about{
+  background: url(./img/Suichuimage_medium.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-attachment: fixed;
+}
 
+.profile {
+  background: url(./img/water-small.jpg) fixed no-repeat;
+} 
 
+.member{
+  margin-bottom: 0;
+}
