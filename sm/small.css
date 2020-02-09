@@ -25,11 +25,11 @@ body{
   background: url(./img/Suichuimage_medium.jpg);
   background-repeat: no-repeat;
   background-position: right;
-  background-attachment: fixed;
 }
 
 .profile {
-  background: url(./img/water-small.jpg) fixed no-repeat;
+  background: url(./img/water-small.jpg)no-repeat;
+  background-attachment: scroll;
 } 
 
 .member{
