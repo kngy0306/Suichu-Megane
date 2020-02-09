@@ -2,6 +2,10 @@
   font-family: sans-serif;
 }
 
+.text{
+  font-size: 4em;
+}
+
 .title {
   width: 200px;
   position: absolute;
