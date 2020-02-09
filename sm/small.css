@@ -2,6 +2,10 @@
   font-family: sans-serif;
 }
 
+.text{
+  font-size: 4em;
+}
+
 .title {
   width: 200px;
   position: absolute;
@@ -20,7 +24,7 @@
   background: url(./img/Suichuimage.jfif);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: 85%;
 }
 
 .profile {

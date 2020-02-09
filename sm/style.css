@@ -23,6 +23,17 @@ body::before {
   background: url(./img/glasses-dark.jpg) center/cover no-repeat;
 }
 
+.img{
+  background: url(./img/Suichuimage.jpg) no-repeat;
+}
+@media screen and (min-width: 1300px){
+  .img{
+    background: url(./img/Suichuimage.jfif) no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+  }
+}
+
 .title {
   height: 230px;
   font-size: 10em;
@@ -38,6 +49,7 @@ body::before {
   margin-top: 130vh;
   overflow: hidden;
 }
+
 
 disc {
   font-family: "Sawarabi Gothic";
@@ -64,6 +76,12 @@ disc {
 .profile {
   background: url(./img/water.jpg) fixed no-repeat;
   border-radius: 20px;
+}
+@media screen and (min-width: 1300px){
+  .profile{
+    background: url(./img/water11.jpg) fixed no-repeat;
+  border-radius: 20px;
+  }
 }
 
 .picture {
