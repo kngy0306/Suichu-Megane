@@ -12,8 +12,8 @@ html {
 }
 
 body{
-  background: url(./img/glasses.jpg) center no-repeat;
-  background-attachment: fixed;
+  background: url(./img/glasses.jpg)center no-repeat;
+  background-size: cover;
 }
 
 .top-container{
