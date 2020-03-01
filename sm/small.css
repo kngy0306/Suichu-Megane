@@ -2,6 +2,15 @@
   font-family: sans-serif;
 }
 
+body{
+  background: none;
+}
+
+.top-container{
+  background: url(./img/glasses.jpg) center no-repeat;
+  background-size: cover;
+}
+
 .text{
   font-size: 4em;
 }
@@ -32,6 +41,11 @@
   background-attachment: scroll;
 }
 
+.song{
+  background-color: teal;
+}
+
 .member {
   margin-bottom: 0;
+  background-color: darkgray;
 }
