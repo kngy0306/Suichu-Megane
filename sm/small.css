@@ -29,9 +29,4 @@
 
 .profile {
   background: url(./img/water-small.jpg) no-repeat;
-  background-attachment: scroll;
-}
-
-.member {
-  margin-bottom: 0;
 }
